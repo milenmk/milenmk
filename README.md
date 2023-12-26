@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milenmk&" alt="milenmk" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
