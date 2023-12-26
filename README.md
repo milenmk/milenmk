@@ -8,3 +8,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... anything
 - 📫 How to reach me: milenmk@gmail.com
 - ⚡ Fun fact: ... ask GPT, not me
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milenmk&show_icons=true&locale=en" alt="milenmk" /></p>
