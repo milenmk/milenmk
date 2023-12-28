@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milenmk&show_icons=true&locale=en" alt="milenmk" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milenmk&repo=Laravel-Simple-Password-Manager)](https://github.com/milenmk/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milenmk&repo=Hierarchy-Product-Category-Drop-Down-WordPress-plugin)](https://github.com/milenmk/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milenmk&repo=Laravel-Simple-Password-Manager)](https://github.com/milenmk/Laravel-Simple-Password-Manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milenmk&repo=Hierarchy-Product-Category-Drop-Down-WordPress-plugin)](https://github.com/milenmk/Hierarchy-Product-Category-Drop-Down-WordPress-plugin)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milenmk&" alt="milenmk" /></p>
 
