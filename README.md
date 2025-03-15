@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milenmk&repo=Laravel-Filament-Password-Manager)](https://github.com/milenmk/Laravel-Filament-Password-Manager)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milenmk&repo=Hierarchy-Product-Category-Drop-Down-WordPress-plugin)](https://github.com/milenmk/Hierarchy-Product-Category-Drop-Down-WordPress-plugin)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milenmk&" alt="milenmk" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=milenmk)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
