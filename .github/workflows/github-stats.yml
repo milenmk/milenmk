@@ -31,14 +31,6 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin - laravel-simple-datatables
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=milenmk&repo=laravel-simple-datatables
-          path: profile/pin-laravel-simple-datatables.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate pin - laravel-locations
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -47,28 +39,36 @@ jobs:
           path: profile/pin-laravel-locations.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin - laravel-livewire-crud
+      - name: Generate pin - laravel-rate-limiting
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=milenmk&repo=laravel-livewire-crud
-          path: profile/pin-laravel-livewire-crud.svg
+          options: username=milenmk&repo=laravel-rate-limiting
+          path: profile/pin-laravel-rate-limiting.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin - Laravel-Filament-Password-Manager
+      - name: Generate pin - laravel-gdpr-exporter
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=milenmk&repo=Laravel-Filament-Password-Manager
-          path: profile/pin-laravel-filament-password-manager.svg
+          options: username=milenmk&repo=laravel-gdpr-exporter
+          path: profile/pin-laravel-gdpr-exporter.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin - Hierarchy-Product-Category-Drop-Down-WordPress-plugin
+      - name: Generate pin - laravel-blacklist
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=milenmk&repo=Hierarchy-Product-Category-Drop-Down-WordPress-plugin
-          path: profile/pin-hierarchy-product-category.svg
+          options: username=milenmk&repo=laravel-blacklist
+          path: profile/pin-laravel-blacklist.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - laravel-simple-datatables-and-forms
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=milenmk&repo=laravel-simple-datatables-and-forms
+          path: profile/pin-laravel-simple-datatables-and-forms.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards

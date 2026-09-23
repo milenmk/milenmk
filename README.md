@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="./profile/stats.svg" alt="milenmk" /></p>
 
-[![laravel-simple-datatables](./profile/pin-laravel-simple-datatables.svg)](https://github.com/milenmk/laravel-simple-datatables)
 [![laravel-locations](./profile/pin-laravel-locations.svg)](https://github.com/milenmk/laravel-locations)
-[![laravel-livewire-crud](./profile/pin-laravel-livewire-crud.svg)](https://github.com/milenmk/laravel-livewire-crud)
-[![Laravel-Filament-Password-Manager](./profile/pin-laravel-filament-password-manager.svg)](https://github.com/milenmk/Laravel-Filament-Password-Manager)
-[![Hierarchy-Product-Category-Drop-Down-WordPress-plugin](./profile/pin-hierarchy-product-category.svg)](https://github.com/milenmk/Hierarchy-Product-Category-Drop-Down-WordPress-plugin)
+[![laravel-rate-limiting](./profile/pin-laravel-rate-limiting.svg)](https://github.com/milenmk/laravel-rate-limiting)
+[![laravel-gdpr-exporter](./profile/pin-laravel-gdpr-exporter.svg)](https://github.com/milenmk/laravel-gdpr-exporter)
+[![laravel-blacklist](./profile/pin-laravel-blacklist.svg)](https://github.com/milenmk/laravel-blacklist)
+[![laravel-simple-datatables-and-forms](./profile/pin-laravel-simple-datatables-and-forms.svg)](https://github.com/milenmk/laravel-simple-datatables-and-forms)
 
 ![Top Langs](./profile/top-langs.svg)
