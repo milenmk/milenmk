@@ -31,6 +31,46 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate pin - laravel-simple-datatables
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=milenmk&repo=laravel-simple-datatables
+          path: profile/pin-laravel-simple-datatables.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - laravel-locations
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=milenmk&repo=laravel-locations
+          path: profile/pin-laravel-locations.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - laravel-livewire-crud
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=milenmk&repo=laravel-livewire-crud
+          path: profile/pin-laravel-livewire-crud.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - Laravel-Filament-Password-Manager
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=milenmk&repo=Laravel-Filament-Password-Manager
+          path: profile/pin-laravel-filament-password-manager.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - Hierarchy-Product-Category-Drop-Down-WordPress-plugin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=milenmk&repo=Hierarchy-Product-Category-Drop-Down-WordPress-plugin
+          path: profile/pin-hierarchy-product-category.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
