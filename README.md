@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: milenmk@gmail.com
 - ⚡ Fun fact: ... ask GPT, not me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milenmk&show_icons=true&locale=en" alt="milenmk" /></p>
+<p>&nbsp;<img align="center" src="./profile/stats.svg" alt="milenmk" /></p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milenmk&repo=laravel-simple-datatables)](https://github.com/milenmk/laravel-simple-datatables)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milenmk&repo=laravel-locations)](https://github.com/milenmk/laravel-locations)
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milenmk&repo=Laravel-Filament-Password-Manager)](https://github.com/milenmk/Laravel-Filament-Password-Manager)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milenmk&repo=Hierarchy-Product-Category-Drop-Down-WordPress-plugin)](https://github.com/milenmk/Hierarchy-Product-Category-Drop-Down-WordPress-plugin)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](./profile/top-langs.svg)
