@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 [![laravel-rate-limiting](./profile/pin-laravel-rate-limiting.svg)](https://github.com/milenmk/laravel-rate-limiting)
 [![laravel-gdpr-exporter](./profile/pin-laravel-gdpr-exporter.svg)](https://github.com/milenmk/laravel-gdpr-exporter)
 [![laravel-blacklist](./profile/pin-laravel-blacklist.svg)](https://github.com/milenmk/laravel-blacklist)
+[![laravel-email-change-confirmation](./profile/pin-laravel-email-change-confirmation.svg)](https://github.com/milenmk/laravel-email-change-confirmation)
 [![laravel-simple-datatables-and-forms](./profile/pin-laravel-simple-datatables-and-forms.svg)](https://github.com/milenmk/laravel-simple-datatables-and-forms)
 
 ![Top Langs](./profile/top-langs.svg)
